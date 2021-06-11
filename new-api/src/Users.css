@@ -1,0 +1,19 @@
+div{
+    margin: 70px;
+  text-align: center;
+}
+
+h1{
+ text-align: center;
+color: blueviolet;
+}
+p{
+ display:inline-table;
+ justify-content: center;
+  align-items: center;
+}
+  
+img {
+ display:inline-block;
+  max-width: 160px
+}
